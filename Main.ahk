@@ -1,15 +1,3 @@
-﻿; dolpSol Macro
-;   A macro for Sol's RNG on Roblox
-;   GNU General Public License
-;   Free for anyone to use
-;   Modifications are welcome, however stealing credit is not
-;   Hope you enjoy - BuilderDolphin
-;   A "small" project started on 03/07/2024
-;   
-;   https://github.com/BuilderDolphin/dolphSol-Macro
-;   
-;   Feel free to provide any suggestions (through discord preferably, @builderdolphin). 
-
 #singleinstance, force
 #noenv
 #persistent
